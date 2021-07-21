@@ -1,0 +1,1 @@
+# gdnative-godot-template
